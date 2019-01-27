@@ -1,1 +1,1 @@
-This is where the contents of the edX course will be placed
+This is where the contents of the edX course will be placed.
